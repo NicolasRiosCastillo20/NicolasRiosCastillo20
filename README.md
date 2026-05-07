@@ -2,86 +2,85 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=30&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;Building+Business+Solutions;Laravel+%7C+Node.js+%7C+FastAPI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=34&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Desarrollador+de+Software;Full+Stack+Developer;Automatización+de+Procesos;Laravel+•+Node.js+•+FastAPI" alt="Typing SVG" />
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/Software%20Developer-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-1E293B?style=for-the-badge&logo=codefactor&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Focused-2563EB?style=for-the-badge&logo=serverless&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-💻 Software Developer focused on building scalable web applications and business solutions.
+💻 Desarrollador de Software enfocado en aplicaciones web modernas, automatización de procesos y soluciones empresariales.
 
-⚙️ Experience in:
+⚙️ Experiencia trabajando con:
 
-* Full Stack Development
-* Process Automation
-* CRM Systems
-* REST APIs
-* SQL/MySQL Databases
-* Business Systems Optimization
-
-🛠️ Main Stack:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,typescript,js,php,python,fastapi,mysql,git,github,bootstrap" />
-</p>
+* Desarrollo Full Stack
+* APIs REST
+* Sistemas CRM
+* Automatización de procesos
+* Optimización de sistemas
+* Bases de datos SQL/MySQL
+* Arquitectura y mantenimiento de aplicaciones
 
 ---
 
-## 📌 Featured Projects
-
-### 🌍 MOCCA Aventura y Café
-
-Tourism web platform focused on reservations, transport management and personalized experiences.
-
-🔹 Laravel + MySQL + Bootstrap
-
-🔗 Live Demo:
-[https://moccaaventuracafe.up.railway.app/](https://moccaaventuracafe.up.railway.app/)
-
-🔗 Repository:
-[https://github.com/NicolasRiosCastillo20/laravel-railway](https://github.com/NicolasRiosCastillo20/laravel-railway)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tecnologías
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRiosCastillo20&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRiosCastillo20&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,typescript,js,php,python,fastapi,mysql,git,github,bootstrap" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## 📊 Estadísticas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasRiosCastillo20&theme=tokyo-night&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRiosCastillo20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRiosCastillo20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 Actividad
 
-<p align="left">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasRiosCastillo20&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## 🌐 Contacto
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/nicolasrioscastillo/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
+
 <a href="https://nicolasrioscastillo.netlify.app/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://img.shields.io/badge/PORTAFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building scalable software solutions that optimize business processes.
+### ⚡ Construyendo soluciones modernas orientadas a negocio.
 
 </div>
