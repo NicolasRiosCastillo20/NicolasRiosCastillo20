@@ -1,17 +1,8 @@
 # Nicolas Rios Castillo
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=34&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Desarrollador+de+Software;Full+Stack+Developer;Automatización+de+Procesos;Laravel+•+Node.js+•+FastAPI" alt="Typing SVG" />
-
-<br>
-<br>
-
-<img src="https://img.shields.io/badge/Software%20Developer-111827?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Full%20Stack-1E293B?style=for-the-badge&logo=codefactor&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend%20Focused-2563EB?style=for-the-badge&logo=serverless&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="[aquí_va_el_enlace_a_la_imagen_cabecera.png]"alt="Cabecera Elegant Modern GitHub README" width="100%">
+</p>
 
 ---
 
@@ -21,66 +12,54 @@
 
 ⚙️ Experiencia trabajando con:
 
-* Desarrollo Full Stack
-* APIs REST
-* Sistemas CRM
-* Automatización de procesos
-* Optimización de sistemas
-* Bases de datos SQL/MySQL
-* Arquitectura y mantenimiento de aplicaciones
+- Desarrollo Full Stack
+- APIs REST
+- Sistemas CRM
+- Automatización de procesos
+- Optimización de sistemas
+- Bases de datos SQL/MySQL
+- Arquitectura y mantenimiento de aplicaciones
 
 ---
 
 ## 🛠️ Tecnologías
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,typescript,js,php,python,fastapi,mysql,git,github,bootstrap" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,typescript,js,php,python,fastapi,mysql,git,github,bootstrap&theme=dark" alt="Habilidades de Nicolas Rios Castillo" />
+</p>
 
 ---
 
 ## 📊 Estadísticas
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRiosCastillo20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRiosCastillo20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRiosCastillo20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRiosCastillo20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes principales" />
+</p>
 
 ---
 
 ## 🔥 Actividad
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasRiosCastillo20&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasRiosCastillo20&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Actividad" />
+</p>
 
 ---
 
 ## 🌐 Contacto
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nicolasrioscastillo/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="https://nicolasrioscastillo.netlify.app/" target="blank">
-<img src="https://img.shields.io/badge/PORTAFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicolasrioscastillo/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>
+  <a href="https://nicolasrioscastillo.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PORTAFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### ⚡ Construyendo soluciones modernas orientadas a negocio.
-
-</div>
+<p align="center">
+  <h3>⚡ Construyendo soluciones modernas orientadas a negocio.</h3>
+</p>
