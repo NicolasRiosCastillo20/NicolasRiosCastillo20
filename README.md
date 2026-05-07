@@ -46,6 +46,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </div>
+</div>
   
 <!--- snake -->
 <div align="center">
