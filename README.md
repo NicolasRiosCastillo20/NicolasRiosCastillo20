@@ -18,19 +18,19 @@
 
 ⚙️ Experiencia trabajando con:
 
-Desarrollo Full Stack
+- Desarrollo Full Stack
 
-APIs REST
+- APIs REST
 
-Sistemas CRM
+- Sistemas CRM
 
-Automatización de procesos
+- Automatización de procesos
 
-Optimización de sistemas
+- Optimización de sistemas
 
-Bases de datos SQL/MySQL
+- Bases de datos SQL/MySQL
 
-Arquitectura y mantenimiento de aplicaciones
+- Arquitectura y mantenimiento de aplicaciones
 
   ## 🛠️ &nbsp;Tecnologias
 
@@ -46,11 +46,7 @@ Arquitectura y mantenimiento de aplicaciones
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </div>
-  <a href="https://github.com/NicolasRios20">
-    <img align="center" alt="NicolasRios20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRios20&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-
+  
 <!--- snake -->
 <div align="center">
   <img src="https://github.com/NicolasRios20/NicolasRios20/blob/main/resources/grid-snake.svg" alt="snake" />
