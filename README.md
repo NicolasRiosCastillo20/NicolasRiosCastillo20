@@ -13,10 +13,24 @@
 <h1 align="center">Hola, soy Nicolas Rios 👋</h1>
 </div>
 
-  ## 🧭 &nbsp;Acerca de mí
-  - 👋 Soy un desarrollador web en crecimiento 💻 Aprendiendo frontend y backend 🌱 Abierto a colaborar en proyectos y           seguir mejorando mis habilidades.
-  - 📚 Estudiante de analisis y desarrollo de sistemas de informacion (SENA).
-  - 🌱 Siempre estoy estudiando **JavaScript**, **PHP**, **Laravel**, **NodeJS**, **Mysql**, **HTML** y **Python**.
+  ## 🚀 &nbsp;Sobre mí
+  💻 Desarrollador de Software enfocado en aplicaciones web modernas, automatización de procesos y soluciones empresariales.
+
+⚙️ Experiencia trabajando con:
+
+Desarrollo Full Stack
+
+APIs REST
+
+Sistemas CRM
+
+Automatización de procesos
+
+Optimización de sistemas
+
+Bases de datos SQL/MySQL
+
+Arquitectura y mantenimiento de aplicaciones
 
   ## 🛠️ &nbsp;Tecnologias
 
@@ -32,11 +46,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </div>
-
-  ## 📊 &nbsp;Mis Estadisticas
-  <a href="https://github.com/NicolasRios20">
-    <img width=450 height=170 align="center" alt="NicolasRios20" src="https://github-readme-stats.vercel.app/api?username=NicolasRios20&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
   <a href="https://github.com/NicolasRios20">
     <img align="center" alt="NicolasRios20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRios20&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
