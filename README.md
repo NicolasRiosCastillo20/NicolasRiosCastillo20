@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHxhpAeVdoe8Q/profile-displaybackgroundimage-shrink_350_1400/B4EZ3____XHMAY-/0/1778116461331?e=1785369600&v=beta&t=K261Tgn6GRg5aqKvWN-dw5kMqPNkLyZ1g2AKPC3zZzM" alt="Card header"/>
+  <img src="https://i.ibb.co/6JytNKKL/1778116461331.jpg" alt="Card header"/>
 </div>
 
 <div align="center">
