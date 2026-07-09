@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHxhpAeVdoe8Q/profile-displaybackgroundimage-shrink_350_1400/B4EZ3____XHMAY-/0/1778116461331?e=1779926400&v=beta&t=qH5d7bH_RovghR4e-4NvCN23q3PJuweQHUoa3GJt_Ag" alt="Card header"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHxhpAeVdoe8Q/profile-displaybackgroundimage-shrink_350_1400/B4EZ3____XHMAY-/0/1778116461331?e=1785369600&v=beta&t=K261Tgn6GRg5aqKvWN-dw5kMqPNkLyZ1g2AKPC3zZzM" alt="Card header"/>
 </div>
 
 <div align="center">
